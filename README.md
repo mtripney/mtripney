@@ -5,9 +5,9 @@
   - Benoit Pioulard
   - Lawrence English
   - Colleen. In fact, there's an album I keep coming back to, year on year: Colleen's _The Golden Morning Breaks_. It came out in 2005, and I think, since then, it's probably my most listened to record.
-- 🌱 I’m currently learning JavaScript and React, and I enjoying working with Tailwind CSS. I'm working on my personal site right now, in Svelte, and it's been a real eye-opener (Svelte, not my site). I'll definitely use it again.
+- 🌱 I’m currently learning JavaScript and React, and I enjoying working with Tailwind CSS. I'm working on my personal site right now, in Next.js, and it's been a real adventure.
 - 💞️ I’m looking to collaborate on... projects thats I believe in. What does that mean? Well, I'd love to be working on code that is going to help people who, in some way, need help. Coding is, after all, political.
-- 📫 I'm not really too big on the socials, but I _am_ on Twitter: follow me at @marktripney.
+- 📫 I'm not really too enthused by social media, but I _am_ on Mastodon: follow me at @marktripney@mastodon.scot.
 
 <!---
 mtripney/mtripney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
